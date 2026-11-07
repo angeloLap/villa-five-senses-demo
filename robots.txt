@@ -1,0 +1,8 @@
+User-Agent: *
+Allow: /
+Disallow: /admin
+Disallow: /admin/
+Disallow: /api/
+
+Host: https://angelolap.github.io/villa-five-senses-demo
+Sitemap: https://angelolap.github.io/villa-five-senses-demo/sitemap.xml

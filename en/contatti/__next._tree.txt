@@ -1,0 +1,6 @@
+:HL["/villa-five-senses-demo/_next/static/css/03f903c9a85c4c27.css","style"]
+4:[["children",{"s":"__PAGE__","h":160}]]
+3:[["children",{"s":"contatti","h":64,"c":"$Q4"}]]
+2:[["children",{"s":{"n":"locale","t":"d","k":"en","s":["_not-found","_global-error","apple-icon.png","icon.png","robots.txt","sitemap.xml"]},"h":52,"c":"$Q3"}]]
+1:[["children",{"s":"(site)","h":120,"c":"$Q2"}]]
+0:{"b":"45t1pw1ziTmoc3BKA_uqH","t":{"t":{"s":"","h":88,"c":"$Q1"}}}
